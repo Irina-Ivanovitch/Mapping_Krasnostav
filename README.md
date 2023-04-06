@@ -14,6 +14,9 @@ Implantation du mapping:
 Small mapping of the krasnostav airstrip, the area is inaccessible by car ideal for Pvp sessions.
 
 Implementation of the mapping:
+
 1- The file krasno-1.dze allows you via DayzEditor Loader to put this mapping on your server.
+
 2- the krasno-1.json file allows you to implement the mapping on your server via the cfggameplay.json file.
+
 3- the mapgrouppos.xml file allows you to add loots in the buildings of the mapping, just copy all the lines of the file and paste them into your own mapgrouppos.xml file
