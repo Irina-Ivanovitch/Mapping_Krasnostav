@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<map>
     <!-- Rajout loots Krasno  -->
 	
-    <group name="Land_Mil_Barracks5" pos="12209.980469 145.841217 12623.111328" rpy="0.000000 0.000000 -154.499969" a="-115.5"/>
+        <group name="Land_Mil_Barracks5" pos="12209.980469 145.841217 12623.111328" rpy="0.000000 0.000000 -154.499969" a="-115.5"/>
 	<group name="Land_Mil_Barracks1" pos="12136.695313 142.165680 12670.955078" rpy="0.000000 0.000000 110.500000" a="-20.5"/>
 	<group name="Land_Container_1Moh" pos="5126.240234 11.958900 2375.709961" rpy="0.000000 -1.500000 -122.999969" a="-147"/>
 	<group name="Land_Mil_Fortified_Nest_Watchtower" pos="12024.502930 142.015884 12584.055664" rpy="0.000000 0.000000 15.999994" a="74"/>
@@ -60,4 +58,3 @@
 	<group name="Land_Container_1Bo" pos="12104.464844 141.168549 12596.084961" rpy="-0.000000 -0.000000 9.000000" a="81"/>	
 	
 	<!-- FIN Rajout loots Krasno   -->
-</map>	
