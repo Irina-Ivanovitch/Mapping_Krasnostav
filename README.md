@@ -4,9 +4,9 @@ Petit mapping de l'airstrip de krasnostav, la zone est inaccessible en voiture i
 
 Implantation du mapping:
 
-1- Le fichier krasno-1.dze vous permet via DayzEditor Loader de mettre ce mapping sur votre serveur.
+1- Le fichier krasno.dze vous permet via DayzEditor Loader de mettre ce mapping sur votre serveur.
 
-2- le fichier krasno-1.json vous permet via le fichier cfggameplay.json d'implanter le mapping sur votre serveur.
+2- le fichier krasno.json vous permet via le fichier cfggameplay.json d'implanter le mapping sur votre serveur.
 
 3- le fichier mapgrouppos.xml vous permet de rajouter les loots dans les bâtiments du mapping, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgrouppos.xml
 
