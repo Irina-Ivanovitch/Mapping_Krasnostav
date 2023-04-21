@@ -10,6 +10,9 @@ Implantation du mapping:
 
 3- le fichier mapgrouppos.xml vous permet de rajouter les loots dans les bâtiments du mapping, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgrouppos.xml
 
+4- le fichiers C130J-mapgroupproto.xml génére du loots dans l'avion, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgrouproto.xml
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 Small mapping of the krasnostav airstrip, the area is inaccessible by car ideal for Pvp sessions.
 
@@ -20,3 +23,5 @@ Implementation of the mapping:
 2- the krasno-1.json file allows you to implement the mapping on your server via the cfggameplay.json file.
 
 3- the mapgrouppos.xml file allows you to add loots in the buildings of the mapping, just copy all the lines of the file and paste them into your own mapgrouppos.xml file
+
+4- the C130J-mapgroupproto.xml files generate loots in the plane, just copy all the lines of the file and paste them into your own mapgroupproto.xml
