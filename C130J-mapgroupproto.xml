@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prototype>
+
+	<!-- mapgroupproto.xml Pour le C130J --> 
+		
+    <!-- Pour des raisons d'inclinaisons de l'avion je n'ai pas creer de points de loots à l'extérieur mais seulement dedans -->	
+    <!-- For reasons of aircraft inclinations I did not create loot points outside but only inside   -->	
+	<!-- Replacer les entrées --> 
+		<group name="Land_Wreck_C130J" lootmax="50">
+			<usage name="Military"/>
+			<container name="lootFloor" lootmax="50">
+				<category name="tools"/>
+				<category name="containers"/>
+				<category name="food"/>
+				<category name="weapons"/>
+				<category name="explosives"/>
+					<tag name="floor"/>
+					<tag name="shelves"/>
+					<tag name="ground"/>
+		<!-- milieu de l'avion by irina -->
+				<point pos="-3.924010 -4.494689 -0.736160" range="1" height="1" /> 
+				<point pos="-3.948840 -4.500079 0.607662" range="1" height="1" /> 
+				<point pos="-0.135860 -4.471539 0.507484" range="1" height="1" /> 
+				<point pos="-0.612999 -4.470749 -0.606453" range="1" height="1" /> 
+				<point pos="-6.196760 -4.107104 -0.370181" range="1" height="1" /> 
+				<point pos="-10.179485 -4.671431 -0.874229" range="1" height="1" /> 
+				<point pos="4.688490 -4.663079 -0.015265" range="1" height="1" /> 
+				<point pos="2.640220 -4.451609 0.011044" range="1" height="1" /> 
+				<point pos="3.743650 -4.537629 -0.595521" range="1" height="1" /> 
+				<point pos="1.939250 -4.457030 0.718491" range="1" height="1" /> 
+				<point pos="-0.037051 -4.466223 -0.675923" range="1" height="1" /> 
+				<point pos="5.421460 -4.738899 0.637522" range="1" height="1" /> 
+				<point pos="-11.364220 -4.358110 -2.612855" range="1" height="1" /> 
+
+			</container>
+		</group>
+</prototype>
